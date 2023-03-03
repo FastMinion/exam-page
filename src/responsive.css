@@ -1,0 +1,162 @@
+@media only screen and (max-width: 1625px){
+    aside {display: none;}
+    .container{float:none;}
+    .center{display: block;}
+    .social{display: block;}
+    footer{padding-bottom: 300px}
+}
+@media only screen and (max-width: 1425px) {
+    .News{margin-left: 280px; height: 300px}
+
+}
+
+@media only screen and (max-width: 1402px) {
+    .partners{width: 175px;height: 175px;}
+
+    .npic center img{max-width: 95% ;max-height:95%;}
+
+
+}
+@media only screen and (max-width: 1250px) {
+    .News{margin-left: 230px;}
+
+    .container{max-width: 800px;}
+    .navcategory li{display: block; margin: 30px 0; border-bottom: solid 1px #FFFFFF}
+    .newspanel{max-width: 800px;}
+
+
+}
+@media only screen and (max-width: 1152px) {
+    .News{margin-left: 180px;}
+    .picpart{max-width: 460px;}
+    footer{padding-bottom: 350px;}
+
+
+
+}
+@media only screen and (max-width: 1080px) {
+    .News .goto{height: 200px; width: 400px;}
+    .News {height: 200px; width: 400px; margin-left: 200px;}
+
+}
+@media only screen and (max-width: 1052px){
+    .News{margin-left: 195px}
+    footer{padding-bottom: 400px;}
+
+}
+
+@media only screen and (max-width: 1002px) {
+    .News{margin-left: 180px;}
+
+}
+@media only screen and (max-width: 952px){
+    .News{margin-left: 160px;}
+
+}
+
+@media only screen and (max-width: 902px) {
+    .News{margin-left: 135px;}
+    .left-side ul{padding-left: 0;}
+    .center{text-align: left;}
+    .social{text-align: left;}
+
+}
+
+@media only screen and (max-width: 852px) {
+    .News{margin-left: 115px;}
+
+    .npic center img{max-width: 600px;max-height: 600px;}
+
+}
+
+@media only screen and (max-width: 802px) {
+    .News{margin-left: 95px;}
+
+    .left-side{float:none;display: block; margin-left: auto;margin-right: auto;margin-top: 15px;}
+    .left-side li{text-align: center;}
+    .center{float: none;display: block; margin-left: auto;margin-right: auto;margin-top: 15px;}
+    .center li{text-align: center}
+    .social{float: none;display: block; margin-left: auto;margin-right: auto;margin-top: 15px; text-align: center;}
+    .social img{margin-right: 15px;margin-left: 15px;}
+
+}
+@media only screen and (max-width: 752px){
+    .News{margin-left: 70px;}
+
+
+
+    .newspanel{max-width: 600px;}
+    .newspanel img{max-width: 300px; float: none;}
+    .newspanel section .content p{margin: 24px 0;}
+
+    .navcategory ul{padding-left: 0}
+
+    iframe{width: 500px;height: 600px;}
+
+
+
+}
+@media only screen and (max-width: 705px){
+    .News{margin-left: 50px;}
+    .hidden{display: block; position: absolute; z-index: 10; left: -5px;top: -5px;}
+    .mainNav{display: none;}
+
+    .npic center img{max-width: 500px;max-height: 500px;}
+
+}
+
+
+@media only screen and (max-width: 652px) {
+    .News{margin-left: 40px;}
+
+}
+
+@media only screen and (max-width: 602px){
+    .News{margin-left:20px;}
+
+    iframe{width: 400px;height: 600px;}
+
+    .npic center img{max-height: 350px;max-width: 350px;}
+}
+
+@media only screen and (max-width: 552px) {
+    .News{margin-left: 0px;}
+
+    .newspanel img{max-width: 200px; max-height: 200px;}
+    .social{margin-left: auto;margin-right: auto;}
+    .center{margin-right: auto;margin-left: auto;}
+    .left-side{margin-right: auto;margin-left: auto;}
+
+
+
+}
+@media only screen and (max-width: 502px){
+    iframe{width: 300px;height: 600px;}
+    #menu{height: 473px;}
+    .collection{width: 200px;}
+}
+@media only screen and (max-width: 452px){
+    .npic center img{max-width: 300px;max-height: 300px;}
+    .collection{width: 200px;}
+    footer{padding-left: 75px;}
+}
+
+@media only screen and (max-width: 360px){
+    .News{margin-left: 0; width: 300px;}
+    .News .goto{width: 300px;}
+
+    #AlignHeader{margin-left: 0;margin-right: 0; max-width: 420px;}
+    #AlignHeader p{margin-left: 16px;}
+
+    header{padding-left: 120px;}
+    .container section{padding: 25px 0;}
+
+    iframe{width: 300px;}
+    .fix section{padding-left:0;}
+
+    .gallerycatpics ul{padding-left: 10px;}
+
+    #menu{height: 547px;}
+
+    .npic center img{max-height: 300px; max-width: 300px;}
+}
